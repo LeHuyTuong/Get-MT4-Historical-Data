@@ -3,7 +3,7 @@
 mkdir -p download
 
 while read symbol; do
-  echo "⬇️ Đang tải: $symbol M5 với flats..."
+  echo "⬇️ Dowloading: $symbol M5 with flats..."
 
   npx dukascopy-node@1.43.0 download \
     --instrument "$symbol" \
@@ -14,7 +14,7 @@ while read symbol; do
     --flats true \
     "./download/${symbol}_m5/"
 
-  echo "✅ Xong: $symbol"
+  echo "✅ Done: $symbol"
   echo "---------------------------"
 done < symbols.txt
 
