@@ -1,0 +1,10 @@
+eurchf
+eurjpy
+eurusd
+audchf
+usdjpy
+euraud
+eurnzd
+eurcad
+gbpchf
+
