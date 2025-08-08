@@ -1,4 +1,8 @@
 # 📊 Get Historical Forex Data for MT4 (Dukascopy → MT4 CSV)
+![Stars](https://img.shields.io/github/stars/LeHuyTuong/Get-MT4-Historical-Data.svg?style=social)
+![Forks](https://img.shields.io/github/forks/LeHuyTuong/Get-MT4-Historical-Data.svg?style=social)
+![License](https://img.shields.io/github/license/LeHuyTuong/Get-MT4-Historical-Data)
+![Views](https://views.whatilearened.today/views/github/LeHuyTuong/Get-MT4-Historical-Data.svg)
 
 A fully automated tool to download historical M1/M5 forex data from **Dukascopy**, convert to **MT4-compatible format**, and verify time continuity.
 
