@@ -9,6 +9,8 @@ A fully automated tool to download historical M1/M5 forex data from **Dukascopy*
 > Supports disconnect-safe execution via `tmux`. Perfect for traders, quant devs, and backtesters.
 
 ---
+Demo
+<img width="757" height="648" alt="image" src="https://github.com/user-attachments/assets/b06cdcea-8252-47cc-8d36-0f83c8744031" />
 
 ## 🚀 Features
 
